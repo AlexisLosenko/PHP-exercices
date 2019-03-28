@@ -1,0 +1,21 @@
+body {
+  background-color: #D1D1D1;
+}
+
+.container {
+  background-color: white;
+  padding: 2%;
+  margin-top: 2%;
+  text-align: justify;
+}
+
+.container h2 {
+  text-align: center;
+  color: red;
+}
+
+.container p {
+  border-bottom: 1px solid black;
+  padding: 1%;
+  padding-bottom: 2%;
+}
