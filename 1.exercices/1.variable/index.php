@@ -1,7 +1,7 @@
 <?php
 //Exercice 01
-    $nom="Aubert";
-    $prenom="Amory";
+    $nom="Losenko";
+    $prenom="Alexis";
     $age=27;
 //Exercice 02
     $km=1;
